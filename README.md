@@ -108,7 +108,7 @@ Steps:
 ## Dataset Details
 Source: Boston Housing Dataset on UCI Machine Learning Repository
 
-Features:
+Features: 
 
 - CRIM: per capita crime rate by town.
 - ZN: proportion of residential land zoned for lots over 25,000 sq. ft.
